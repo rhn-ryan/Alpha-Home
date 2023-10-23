@@ -8,7 +8,7 @@ The main purpose of this project is to automate the process of servi
 
 ## Appendix
 
-Focusing on the audiences who want to adopt any pet like dog, cat will get the information and contact details about the welfare near them. We have added many enticing modules and segments in our web application to allure the visitors and leads them to adopt their dream pets. 
+Focusing on the audiences who want to adopt any pet like dog, cat will get the information and contact details about the welfare near them. We have added many enticing modules and segments in our web application to allure the visitors and leads them to adopt their dream pets and help pets in need.
 
 
   
