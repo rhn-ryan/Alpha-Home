@@ -1,5 +1,5 @@
 
-# Loyalfriend - Web Application
+# Alpha-Home - Web Application
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 The main purpose of this project is to automate the process of serving towards the welfare of the pets by giving the abandoned pets a place  of        shelter to live in, care them with affection through our portal. 
@@ -14,7 +14,7 @@ Focusing on the audiences who want to adopt any pet like dog, cat will get the i
   
 ## Author
 
-- [@anshulhub](https://www.github.com/anshulhub)
+- [@rhn-ryan](nshulhubhttps://www.github.com/rhn-ryan)
 
   
 ## Contributing
@@ -38,13 +38,13 @@ Please adhere to this project's `code of conduct`.
 Clone the project
 
 ```bash
-  git clone https://github.com/anshulhub/LoyalFriend.git
+  git clone https://github.com/rhn-ryan/Alpha-Home.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd LoyalFriend
+  cd Alpha-Home
 ```
 
 Install dependencies
